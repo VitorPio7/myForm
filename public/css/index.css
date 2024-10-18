@@ -24,9 +24,12 @@ form input {
   width: 350px;
 }
 form button {
-  width: 60px;
+  width: 100px;
   background-color: greenyellow;
   border: transparent;
+  cursor: pointer;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
 }
 body {
   background-color: #f2f2f2f2;
