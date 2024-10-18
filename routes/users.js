@@ -4,7 +4,6 @@ let express = require("express")
 let routes2 = express.Router();
 let rootPath = require('../util/path')
 
-let app = express();
 
 
 
